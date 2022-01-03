@@ -1,4 +1,4 @@
-#Rocket.Q
+# Rocket.Q
 ## Projeto desenvolvido durante a NLW
 O objetivo do site é possibilitar o gerenciamente de perguntas anônimas
 
