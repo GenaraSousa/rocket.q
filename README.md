@@ -13,4 +13,4 @@ O objetivo do site é possibilitar o gerenciamente de perguntas anônimas
 
 ### Construido a partir do protótipo do figma
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fl9eGrk3Drq3JvUkHkMJxl3%2FUfra.q-(Community)" allowfullscreen=""></iframe>
+https://www.figma.com/file/l9eGrk3Drq3JvUkHkMJxl3/Ufra.q-(Community)
