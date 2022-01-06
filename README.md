@@ -11,6 +11,6 @@ O objetivo do site é possibilitar o gerenciamente de perguntas anônimas
 - Sqlite
 - Express
 
-### Construido a partir do protótipo do figma
+### Construído a partir do protótipo do figma
 
 https://www.figma.com/file/l9eGrk3Drq3JvUkHkMJxl3/Ufra.q-(Community)
